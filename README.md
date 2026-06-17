@@ -30,3 +30,9 @@ Email: shwetarajput0806@gmail.com
 
 ✨ Fun Fact:
 I enjoy exploring AI technologies, solving coding problems, and continuously improving my technical skills.
+
+## 🛠️ Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,git,github" />
+</p>
