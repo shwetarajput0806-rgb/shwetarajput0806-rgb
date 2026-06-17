@@ -1,17 +1,32 @@
-                                                                                    Hi
-                                                                        
+# 👋 Hi, I'm Shweta Rajput
 
-<!--
-**shwetarajput0806-rgb/shwetarajput0806-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Undergraduate specializing in Artificial Intelligence and Machine Learning (AIML).
 
-Here are some ideas to get you started:
+🌱 I am currently learning Advanced Machine Learning, Natural Language Processing (NLP), Generative AI, Deep Learning frameworks including PyTorch and TensorFlow, along with Data Structures and Algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I am passionate about Artificial Intelligence, Machine Learning, and building intelligent solutions using modern technologies.
+
+## 🛠️ Skills
+- Programming Languages: Python, C, C++
+- Data Structures and Algorithms (DSA)
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Natural Language Processing (NLP)
+- PyTorch
+- TensorFlow
+- Git & GitHub
+
+## 🏢 Internship Experience
+- Machine Learning Intern at CloudCredi Technology
+- AI & Machine Learning Intern at Codec Technologies
+- Machine Learning Intern at Saiket System Technology
+- Python Programming Intern at CodeAlpha
+
+🤝 I’m looking to collaborate on Machine Learning, Deep Learning, Generative AI, and AI-based projects.
+
+📫 How to reach me:
+Email: your-email@example.com
+
+✨ Fun Fact:
+I enjoy exploring AI technologies, solving coding problems, and continuously improving my technical skills.
