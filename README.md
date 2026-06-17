@@ -55,4 +55,4 @@ I enjoy exploring AI technologies, solving coding problems, and continuously imp
 
 - ## 📊 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetarajput0806-rgb&layout=compact&theme=tokyonight" />
