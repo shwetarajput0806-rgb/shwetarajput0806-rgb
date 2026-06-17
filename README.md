@@ -37,10 +37,18 @@ I enjoy exploring AI technologies, solving coding problems, and continuously imp
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode,mysql,tensorflow,pytorch,opencv,anaconda,sklearn" />
 </p>
 
-### 🤖 AI & ML Domains
-- Artificial Intelligence (AI)
-- Machine Learning (ML)
-- Deep Learning
-- Generative AI
-- Natural Language Processing (NLP)
-- Data Structures & Algorithms (DSA)
+## 📊 Data Science & AI Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pycharm" />
+</p>
+
+- 🤖 Machine Learning (ML)
+- 🧠 Deep Learning
+- ✨ Generative AI
+- 🗣️ Natural Language Processing (NLP)
+- 👁️ Computer Vision
+- 📊 Pandas
+- 🔢 NumPy
+- 📈 Matplotlib
+- 📓 Jupyter Notebook
