@@ -18,7 +18,7 @@
 - Git & GitHub
 
 ## 🏢 Internship Experience
-- Machine Learning Intern at CloudCredi Technology
+- Machine Learning Intern at Cloudcredits Technologies Pvt. Ltd
 - AI & Machine Learning Intern at Codec Technologies
 - Machine Learning Intern at Saiket System Technology
 - Python Programming Intern at CodeAlpha
