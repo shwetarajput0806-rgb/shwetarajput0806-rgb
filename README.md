@@ -1,6 +1,4 @@
-                                                                                    Hi,I'm Shweta Rajput
-
-                                                                        A 3rd year undergraduate Ai-ml engineer from Jabalpur 
+                                                                                    Hi
                                                                         
 
 <!--
