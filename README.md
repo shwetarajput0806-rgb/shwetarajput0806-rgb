@@ -26,7 +26,7 @@
 🤝 I’m looking to collaborate on Machine Learning, Deep Learning, Generative AI, and AI-based projects.
 
 📫 How to reach me:
-Email: your-email@example.com
+Email: shwetarajput0806@gmail.com
 
 ✨ Fun Fact:
 I enjoy exploring AI technologies, solving coding problems, and continuously improving my technical skills.
