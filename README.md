@@ -53,6 +53,6 @@ I enjoy exploring AI technologies, solving coding problems, and continuously imp
 - 📈 Matplotlib
 - 📓 Jupyter Notebook
 
-- ## 📊 Most Used Languages
+## 📊 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetarajput0806-rgb&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetarajput0806-rgb&layout=compact&theme=default" />
