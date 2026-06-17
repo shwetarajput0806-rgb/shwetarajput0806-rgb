@@ -37,7 +37,7 @@ I enjoy exploring AI technologies, solving coding problems, and continuously imp
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode,mysql,tensorflow,pytorch,opencv,anaconda,sklearn" />
 </p>
 
-## 📊 Data Science & AI Libraries
+## 📊Machine Learning & AI Libraries
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pycharm" />
