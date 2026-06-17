@@ -1,4 +1,7 @@
-## Hi there 👋
+                                                                                    Hi,I'm Shweta Rajput
+
+                                                                        A 3rd year undergraduate Ai-ml engineer from Jabalpur 
+                                                                        
 
 <!--
 **shwetarajput0806-rgb/shwetarajput0806-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
