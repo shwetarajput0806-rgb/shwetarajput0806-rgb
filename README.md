@@ -21,7 +21,7 @@
 - Machine Learning & AI Intern at Cloudcredits Technologies Pvt. Ltd
 - AI & Machine Learning Intern at Codec Technologies Pvt. Ltd
 - Machine Learning Intern at Saiket System Technology
-- Python Programming Intern at CodeAlpha
+- Python Programming Intern at CodeAlpha.
 
 🤝 I’m looking to collaborate on Machine Learning, Deep Learning, Generative AI, and AI-based projects.
 
