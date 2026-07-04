@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shweta Rajput
+# 👋 Hi, I'm Shweta Rajput.
 
 🎓 B.Tech Undergraduate specializing in Artificial Intelligence and Machine Learning (AIML).
 
@@ -18,9 +18,9 @@
 - Git & GitHub
 
 ## 🏢 Internship Experience
-- Machine Learning & AI Intern at Cloudcredits Technologies Pvt. Ltd
-- AI & Machine Learning Intern at Codec Technologies Pvt. Ltd
-- Machine Learning Intern at Saiket System Technology
+- Machine Learning & AI Intern at Cloudcredits Technologies Pvt. Ltd.
+- AI & Machine Learning Intern at Codec Technologies Pvt. Ltd.
+- Machine Learning Intern at Saiket System Technology.
 - Python Programming Intern at CodeAlpha.
 
 🤝 I’m looking to collaborate on Machine Learning, Deep Learning, Generative AI, and AI-based projects.
