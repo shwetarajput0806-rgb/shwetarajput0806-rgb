@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Shweta Rajput.
 
-🎓 B.Tech Undergraduate specializing in Artificial Intelligence and Machine Learning (AIML).
+🎓 B.Tech Undergraduate specializing in Artificial Intelligence and Machine Learning (AIML)
 
-🌱 I am currently learning Advanced Machine Learning, Natural Language Processing (NLP), Generative AI, Deep Learning frameworks including PyTorch and TensorFlow, along with Data Structures and Algorithms.
+🌱 I am currently learning Advanced Machine Learning, Natural Language Processing (NLP), Generative AI, Deep Learning frameworks including PyTorch and TensorFlow, along with Data Structures and Algorithms
 
-💻 I am passionate about Artificial Intelligence, Machine Learning, and building intelligent solutions using modern technologies.
+💻 I am passionate about Artificial Intelligence, Machine Learning, and building intelligent solutions using modern technologies
 
 ## 🛠️ Skills
 - Programming Languages: Python, C, C++
@@ -18,12 +18,12 @@
 - Git & GitHub
 
 ## 🏢 Internship Experience
-- Machine Learning & AI Intern at Cloudcredits Technologies Pvt. Ltd.
-- AI & Machine Learning Intern at Codec Technologies Pvt. Ltd.
-- Machine Learning Intern at Saiket System Technology.
-- Python Programming Intern at CodeAlpha.
+- Machine Learning & AI Intern at Cloudcredits Technologies Pvt. Ltd
+- AI & Machine Learning Intern at Codec Technologies Pvt. Ltd
+- Machine Learning Intern at Saiket System Technology
+- Python Programming Intern at CodeAlpha
 
-🤝 I’m looking to collaborate on Machine Learning, Deep Learning, Generative AI, and AI-based projects.
+🤝 I’m looking to collaborate on Machine Learning, Deep Learning, Generative AI, and AI-based projects
 
 📫 How to reach me:
 Email: shwetarajput0806@gmail.com
@@ -51,7 +51,7 @@ I enjoy exploring AI technologies, solving coding problems, and continuously imp
 - 📊 Pandas
 - 🔢 NumPy
 - 📈 Matplotlib
-- 📓 Jupyter Notebook.
+- 📓 Jupyter Notebook
 
 ## 📊 Most Used Languages
 
