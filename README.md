@@ -51,7 +51,7 @@ I enjoy exploring AI technologies, solving coding problems, and continuously imp
 - 📊 Pandas
 - 🔢 NumPy
 - 📈 Matplotlib
-- 📓 Jupyter Notebook
+- 📓 Jupyter Notebook.
 
 ## 📊 Most Used Languages
 
