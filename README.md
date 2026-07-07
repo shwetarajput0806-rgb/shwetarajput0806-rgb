@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Shweta Rajput.
 
-🎓 B.Tech Undergraduate specializing in Artificial Intelligence and Machine Learning (AIML)
+🎓 B.Tech Undergraduate specializing in Artificial Intelligence and Machine Learning (AIML).
 
-🌱 I am currently learning Advanced Machine Learning, Natural Language Processing (NLP), Generative AI, Deep Learning frameworks including PyTorch and TensorFlow, along with Data Structures and Algorithms
+🌱 I am currently learning Advanced Machine Learning, Natural Language Processing (NLP), Generative AI, Deep Learning frameworks including PyTorch and TensorFlow, along with Data Structures and Algorithms.
 
-💻 I am passionate about Artificial Intelligence, Machine Learning, and building intelligent solutions using modern technologies
+💻 I am passionate about Artificial Intelligence, Machine Learning, and building intelligent solutions using modern technologies.
 
 ## 🛠️ Skills
 - Programming Languages: Python, C, C++
