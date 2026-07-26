@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shweta Rajput.
+# 👋 Hi, I'm Shweta Rajput
 
 🎓 B.Tech Undergraduate specializing in Artificial Intelligence and Machine Learning (AIML).
 
