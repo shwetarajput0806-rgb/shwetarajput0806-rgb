@@ -7,8 +7,8 @@
 💻 I am passionate about Artificial Intelligence, Machine Learning, and building intelligent solutions using modern technologies.
 
 ## 🛠️ Skills
-- Programming Languages: Python, C, C++
-- Data Structures and Algorithms (DSA)
+- Programming Languages: Python, C, C++.
+- Data Structures and Algorithms (DSA).
 - Machine Learning
 - Deep Learning
 - Generative AI
