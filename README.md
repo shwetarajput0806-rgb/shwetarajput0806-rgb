@@ -29,7 +29,7 @@
 Email: shwetarajput0806@gmail.com
 
 ✨ Fun Fact:
-I enjoy exploring AI technologies, solving coding problems, and continuously improving my technical skills
+I enjoy exploring AI technologies, solving coding problems, and continuously improving my technical skills.
 
 ## 🛠️ Languages and Tools
 
